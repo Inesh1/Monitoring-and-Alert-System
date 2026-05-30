@@ -85,7 +85,7 @@ ubuntu-target   →  192.168.56.20   (TARGET_NODE)
 
 | | |
 |---|---|
-| ![Dashboard 1](Image/Screenshot/Screenshot 2026-05-20 172053.png) | ![Dashboard 2](assets/screenshots/prometheus-targets.png) |
+| ![Dashboard 1](Monitoring-and-Alert-System/Image/Screenshot/Screenshot 2026-05-20 172053.png) | ![Dashboard 2](assets/screenshots/prometheus-targets.png) |
 | *Grafana — System Metrics Dashboard* | *Prometheus — Scrape Targets* |
 | ![Dashboard 3](assets/screenshots/alertmanager.png) | ![Dashboard 4](assets/screenshots/loki-logs.png) |
 | *Alertmanager — Active Alerts* | *Loki — Centralized Log View* |
@@ -121,7 +121,7 @@ Build the virtual enterprise-style network lab environment using VirtualBox.
 ### Architecture Diagram
 
 > 📸 Add your Phase 0 lab architecture screenshot here
-> `![Phase 0 Architecture](assets/architecture/phase0-lab-setup.png)`
+> Image/Screenshot/Screenshot 2026-05-20 172053.png
 
 ---
 
